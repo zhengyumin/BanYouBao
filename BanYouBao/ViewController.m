@@ -18,6 +18,9 @@
     [super viewDidLoad];
     //asdasddasd啊啊啊
     NSLog(@"asd");
+     NSLog(@"asd");
+     NSLog(@"asd");
+     NSLog(@"asd");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
