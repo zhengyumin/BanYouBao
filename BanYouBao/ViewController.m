@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //JJBJBJ
     //asdasddasd啊啊啊
     NSLog(@"asd");
      NSLog(@"asd");
